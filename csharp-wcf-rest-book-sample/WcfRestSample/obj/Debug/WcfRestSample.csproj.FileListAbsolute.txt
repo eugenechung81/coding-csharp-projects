@@ -1,0 +1,5 @@
+C:\projects\WcfRestSample2\WcfRestSample\obj\Debug\WcfRestSample.csprojResolveAssemblyReference.cache
+C:\projects\WcfRestSample2\WcfRestSample\bin\WcfRestSample.dll
+C:\projects\WcfRestSample2\WcfRestSample\bin\WcfRestSample.pdb
+C:\projects\WcfRestSample2\WcfRestSample\obj\Debug\WcfRestSample.dll
+C:\projects\WcfRestSample2\WcfRestSample\obj\Debug\WcfRestSample.pdb

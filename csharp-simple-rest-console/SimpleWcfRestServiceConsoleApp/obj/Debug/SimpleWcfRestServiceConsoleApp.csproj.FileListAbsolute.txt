@@ -1,0 +1,9 @@
+c:\users\eugene\documents\visual studio 2012\Projects\SimpleWcfRestServiceConsoleApp\SimpleWcfRestServiceConsoleApp\bin\Debug\SimpleWcfRestServiceConsoleApp.exe.config
+c:\users\eugene\documents\visual studio 2012\Projects\SimpleWcfRestServiceConsoleApp\SimpleWcfRestServiceConsoleApp\bin\Debug\SimpleWcfRestServiceConsoleApp.exe
+c:\users\eugene\documents\visual studio 2012\Projects\SimpleWcfRestServiceConsoleApp\SimpleWcfRestServiceConsoleApp\bin\Debug\SimpleWcfRestServiceConsoleApp.pdb
+c:\users\eugene\documents\visual studio 2012\Projects\SimpleWcfRestServiceConsoleApp\SimpleWcfRestServiceConsoleApp\obj\Debug\SimpleWcfRestServiceConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\eugene\documents\visual studio 2012\Projects\SimpleWcfRestServiceConsoleApp\SimpleWcfRestServiceConsoleApp\obj\Debug\SimpleWcfRestServiceConsoleApp.exe
+c:\users\eugene\documents\visual studio 2012\Projects\SimpleWcfRestServiceConsoleApp\SimpleWcfRestServiceConsoleApp\obj\Debug\SimpleWcfRestServiceConsoleApp.pdb
+C:\projects\csharp-simple-rest-console\SimpleWcfRestServiceConsoleApp\bin\Debug\SimpleWcfRestServiceConsoleApp.exe.config
+C:\projects\csharp-simple-rest-console\SimpleWcfRestServiceConsoleApp\obj\Debug\SimpleWcfRestServiceConsoleApp.exe
+C:\projects\csharp-simple-rest-console\SimpleWcfRestServiceConsoleApp\obj\Debug\SimpleWcfRestServiceConsoleApp.pdb

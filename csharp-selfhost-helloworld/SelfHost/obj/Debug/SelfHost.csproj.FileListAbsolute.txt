@@ -1,0 +1,15 @@
+c:\users\eugene\documents\visual studio 2012\Projects\SelfHost\SelfHost\bin\Debug\SelfHost.exe.config
+c:\users\eugene\documents\visual studio 2012\Projects\SelfHost\SelfHost\bin\Debug\SelfHost.exe
+c:\users\eugene\documents\visual studio 2012\Projects\SelfHost\SelfHost\bin\Debug\SelfHost.pdb
+c:\users\eugene\documents\visual studio 2012\Projects\SelfHost\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
+c:\users\eugene\documents\visual studio 2012\Projects\SelfHost\SelfHost\obj\Debug\SelfHost.exe
+c:\users\eugene\documents\visual studio 2012\Projects\SelfHost\SelfHost\obj\Debug\SelfHost.pdb
+C:\projects\csharp-selfhost\SelfHost\bin\Debug\SelfHost.exe.config
+C:\projects\csharp-selfhost\SelfHost\obj\Debug\SelfHost.exe
+C:\projects\csharp-selfhost\SelfHost\obj\Debug\SelfHost.pdb
+C:\projects\csharp-selfhost-helloworld\SelfHost\bin\Debug\SelfHost.exe.config
+C:\projects\csharp-selfhost-helloworld\SelfHost\bin\Debug\SelfHost.exe
+C:\projects\csharp-selfhost-helloworld\SelfHost\bin\Debug\SelfHost.pdb
+C:\projects\csharp-selfhost-helloworld\SelfHost\obj\Debug\SelfHost.exe
+C:\projects\csharp-selfhost-helloworld\SelfHost\obj\Debug\SelfHost.pdb
+C:\projects\csharp-selfhost-helloworld\SelfHost\obj\Debug\ResolveAssemblyReference.cache
